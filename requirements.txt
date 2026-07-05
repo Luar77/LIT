@@ -1,2 +1,3 @@
 pillow~=11.3.0
 PyTexturePacker~=1.2.1
+gd-icon-composite~=0.2.1
